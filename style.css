@@ -1,0 +1,27 @@
+
+.background-img { 
+    position: absolute; 
+    height: 160%; 
+    width: 100%; 
+    background-image: url(background-8358422_1280.webp); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center; 
+} 
+.card-header{
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-size: 28px;
+
+}
+.table{
+    border-radius: 4px;
+}
+.card{
+    border-radius: 1%;
+    width: 80%;
+    position: absolute;
+    left: 140px;
+    top: 25px;
+
+}
